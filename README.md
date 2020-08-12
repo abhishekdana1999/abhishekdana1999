@@ -1,3 +1,8 @@
+<style>
+  a{
+    margin: 0 10px;
+  }
+<style>
 <h1 align="center">Hi 👋, I'm Abhishek Dana</h1>
 <h3 align="center">A passionate frontend web/mobile application developer from India, Currently working in TCS as graduate trainee have completed my IT in 2020 From Amity University Mumbai.</h3>
 
