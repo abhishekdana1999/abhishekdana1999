@@ -1,8 +1,4 @@
-<style>
-  a{
-    margin: 0 10px;
-  }
-<style>
+
 <h1 align="center">Hi 👋, I'm Abhishek Dana</h1>
 <h3 align="center">A passionate frontend web/mobile application developer from India, Currently working in TCS as graduate trainee have completed my IT in 2020 From Amity University Mumbai.</h3>
 
@@ -25,10 +21,10 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekdana1999&show_icons=true" alt="abhishekdana1999" />
 
 <p align="center">
-<a href="https://codepen.io/danaabhi7119" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="danaabhi7119" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/abhishekdana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhishekdana" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/abhishek-dana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="abhishek-dana" height="30" width="30" /></a>
-<a href="https://fb.com/abhishek.dana.5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="abhishek.dana.5" height="30" width="30" /></a>
-<a href="https://instagram.com/abhishek_dana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="abhishek_dana" height="30" width="30" /></a>
-<a href="https://dribbble.com/abhishek dana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="abhishek dana" height="30" width="30" /></a>
+<a style="margin: 0 10px" href="https://codepen.io/danaabhi7119" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="danaabhi7119" height="30" width="30" /></a>
+<a style="margin: 0 10px" href="https://linkedin.com/in/abhishekdana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhishekdana" height="30" width="30" /></a>
+<a style="margin: 0 10px" href="https://stackoverflow.com/users/abhishek-dana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="abhishek-dana" height="30" width="30" /></a>
+<a style="margin: 0 10px" href="https://fb.com/abhishek.dana.5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="abhishek.dana.5" height="30" width="30" /></a>
+<a style="margin: 0 10px" href="https://instagram.com/abhishek_dana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="abhishek_dana" height="30" width="30" /></a>
+<a style="margin: 0 10px" href="https://dribbble.com/abhishek dana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="abhishek dana" height="30" width="30" /></a>
 </p>
