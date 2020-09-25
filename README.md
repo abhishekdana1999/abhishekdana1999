@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek Dana</h1>
-<h3 align="center">A passionate frontend web/mobile application developer from India, Currently working in TCS as graduate trainee have completed my IT in 2020 From Amity University Mumbai.</h3>
+<h3 align="center">A passionate frontend web/mobile application developer from India, Currently looking for some great opportunity to work with great companies, have completed my IT in 2020 From Amity University Mumbai.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekdana1999" alt="abhishekdana1999" /> </p>
 
