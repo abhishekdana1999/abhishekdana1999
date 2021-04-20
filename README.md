@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Advanced Python & More Frontend Technologies**
 
-- 📝 I regulary write articles on [https://blog.smartcodehub.com](https://blog.smartcodehub.com)
+- 📝 I regulary write articles on [https://blog.smartcodehub.com/author/abhishek/](https://blog.smartcodehub.com/author/abhishek/)
 
 - 💬 Ask me about **Angular, Ionic , Javascript , Python , React Native , Flutter, React, Jquery , Bootstrap , Design To Code**
 
