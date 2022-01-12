@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekdana1999" alt="abhishekdana1999" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/danaabhi" target="blank"><img src="https://img.shields.io/twitter/follow/danaabhi?logo=twitter&style=for-the-badge" alt="danaabhi7119" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/abhishek_dana" target="blank"><img src="https://img.shields.io/instagram/follow/abhishek_dana?logo=instagram&style=for-the-badge" alt="danaabhi7119" /></a> </p>
 
 - 🔭 I’m currently working on **My dream Project**
 
