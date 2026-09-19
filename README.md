@@ -13,8 +13,8 @@
 - ⚙️ Deep expertise in **Angular (v18, Signals)**, **React**, **NestJS**, and **Node.js** on the frontend and API layers.
 - ☁️ Hands-on experience with **Azure Cloud** (App Insights, Key Vault, Storage Accounts, App Config) and **Kubernetes (AKS)** basics.
 - 🏗️ Passionate about full-stack architectures, Nx monorepos, CI/CD automation (Playwright), and developing robust microservices.
-- 📱 Architect and creator of modern applications like **Welcome Rewards** (loyalty platform) and **Nebula Confession** (anonymous mobile app) utilizing Capacitor, React Native, and Tailwind CSS.
-- 🏦 Domain expertise spanning Fintech/Banking, Insurance/Financial Services, and EdTech.
+- 📱 Architect and creator of modern applications utilizing Capacitor, React Native, Next.js, and Tailwind CSS.
+- 🏦 Domain expertise spanning Fintech/Banking, Insurance/Financial Services, EdTech, and E-Commerce.
 
 ## 🛠️ Technical Arsenal
 
@@ -35,10 +35,20 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 ## 📂 Featured Projects & Repositories
-- **[covidApp](https://github.com/abhishekdana1999/covidApp)**: A TypeScript-based application for data tracking.
+
+### Core Projects
+- **[Nebula Confession](http://confession.nebulamatch.com/)**: Designed, built, and maintain an anonymous confession mobile application utilizing modern full-stack mobile technologies.
+- **[Nebula Anti Scam AI SDK](https://github.com/nebulamatch/antiscamai-sdk)**: An AI-powered SDK designed to integrate intelligent scam detection and prevention mechanisms into applications.
+- **[DiscountWishcount](https://discountwishcount.com/)**: A dedicated platform built to manage and distribute discounts, offers, and digital rewards. 
+- **Welcome Rewards**: Architected and developed a comprehensive loyalty and rewards platform featuring NestJS backend microservices and a Capacitor frontend.
+
+### Open Source & GitHub Repositories
+- **[covidApp](https://github.com/abhishekdana1999/covidApp)**: A TypeScript-based data tracking application.
 - **[FlutterAnbyShop](https://github.com/abhishekdana1999/FlutterAnbyShop)**: An e-commerce mobile application built utilizing Dart and Flutter.
-- **[flutterbooks](https://github.com/abhishekdana1999/flutterbooks)**: A book tracking application developed using Flutter.
-- **Enterprise Platforms**: Contributed to the architecture and feature delivery for scalable systems such as **Yes Bank's Mobile Banking** application and the **Hero Vired** LMS platform.
+- **[flutterbooks](https://github.com/abhishekdana1999/flutterbooks)**: A mobile book tracking application developed using Flutter.
+
+### Enterprise Platforms (Professional Experience)
+- Contributed to the architecture and feature delivery for scalable systems such as **Yes Bank's Mobile Banking** application, **GM Financial's PayNow Platform**, and the **Hero Vired** LMS platform.
 
 ## 📫 Let's Connect
 - **Email**: danaabhishek1@gmail.com
