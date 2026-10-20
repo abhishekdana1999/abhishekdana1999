@@ -37,6 +37,7 @@
 ## 📂 Featured Projects & Repositories
 
 ### Core Projects
+- **[StackHandoff](http://stackhandoff.com/)**: Founded and developed a open source cross-platform desktop application that enables seamless workspace migration and synchronization across Windows and macOS. Features secure peer-to-peer transfers, cloud-based remote handoff, multi-project and folder cloning, automatic development environment detection, and intelligent workspace restoration—helping developers switch devices without rebuilding their setup manually.
 - **[Nebula Confession](http://confession.nebulamatch.com/)**: Designed, built, and maintain an anonymous confession mobile application utilizing modern full-stack mobile technologies.
 - **[Nebula Anti Scam AI SDK](https://github.com/nebulamatch/antiscamai-sdk)**: An AI-powered SDK designed to integrate intelligent scam detection and prevention mechanisms into applications.
 - **[DiscountWishcount](https://discountwishcount.com/)**: A dedicated platform built to manage and distribute discounts, offers, and digital rewards. 
@@ -53,3 +54,5 @@
 ## 📫 Let's Connect
 - **Email**: danaabhishek1@gmail.com
 - **LinkedIn**: [linkedin.com/in/abhishekdana](https://www.linkedin.com/in/abhishekdana)
+- **Portfolio**: [abhishekdana.com](https://www.abhishekdana.com)
+
